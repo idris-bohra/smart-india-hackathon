@@ -1,0 +1,28 @@
+#dropdown{
+    position: relative;
+    margin-left: 730px;
+    padding: 6px;
+    margin-top: 210px;
+    padding-left: 0;
+    background-color: blue;
+    z-index: 1;
+
+}
+
+.login_wrapper_teacher_home_img{
+    width: 250vh;
+    height: 100vh;
+    background: url(../../images/govt\ school.jpg) no-repeat center ;
+    background-size: cover;
+}
+
+#dropdown > ul > li >a{
+    text-decoration: none;
+    padding: 10px;
+    color: white;
+}
+
+#dropdown > ul > li >a:hover{
+    text-decoration: underline;
+}
+

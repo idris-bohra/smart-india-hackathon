@@ -1,0 +1,43 @@
+/* #13245D */
+.footer{
+  background-color: #13245D;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  height: 200px;
+  cursor: default;
+  /* margin-top: 50px; */
+}
+
+.footer_div1{
+    margin-left: 140px;
+}
+
+.footer_div1>p:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.footer_div1>h5{
+    font-weight: 100;
+    font-size: 15px;
+    font-family: serif;
+    letter-spacing: 1px;
+}
+
+
+.footer_div2{
+    margin-right: 140px;
+}
+
+.footer_div2>img{
+    margin-bottom: 10px;
+}
+
+.footer_div2>span{
+    font-size: 15px;
+    font-family: serif;
+    letter-spacing: 1px;
+}

@@ -1,0 +1,49 @@
+.main_div{
+    width: 100vw;
+    min-height: 100vh;
+    display: flex;
+    margin: 40px 0px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
+}
+.main_div_wrapper{
+border: 1px solid black;
+box-shadow: 0px 10px 10px rgba(0, 0, 0, .8);
+border-radius: 10px;
+
+}
+.main_div_container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+.attendance_links{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    margin-top: 30px;
+    position: relative;
+    flex-wrap: wrap;
+}
+
+.attendance_links >* {
+    display: inline-block;
+    flex-grow: 1;
+}
+
+.linkname{
+    position: relative;
+    margin-left: 40px;
+    text-decoration: none;
+    color: #2e9af5;
+}
+
+.headd{
+    padding: 10px;
+}

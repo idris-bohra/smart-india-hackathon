@@ -1,0 +1,27 @@
+.ndear_signup_container>form>select{
+    margin-left: 70px;
+    width: 50px;
+    height: 20px;
+    text-align: center;
+}
+
+.ndear_signup_container>h3{
+    margin-top: 10px;
+}
+.school_signup{
+    margin: 50px 0px;
+}
+
+.sections{
+    width: 50px !important;
+    margin-left: 68px;
+    text-align: center;
+}
+
+.password{
+    color: white;
+}
+
+.white{
+    color: white;
+}

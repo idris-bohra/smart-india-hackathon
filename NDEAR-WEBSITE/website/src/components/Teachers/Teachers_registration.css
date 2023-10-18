@@ -1,0 +1,46 @@
+.teachers_regis_heder:nth-child(1){
+    margin-top: 50px;
+}
+.teachers_regis_heder{
+    margin-bottom: 20px;
+}
+.teacher_regis_input{
+    /* margin-bottom: 10px; */
+}
+
+.teacher_regis_container>form>input{
+    margin-bottom: 20px;
+}
+
+.teacher_resis_header{
+    margin-top: 20px;
+}
+.teacher_resis_header_heading{
+display: inline;
+}
+
+.teacher_resis_header_heading_2{
+    margin: 10px 0px 20px 0px;
+}
+
+
+.teacher_resis_header>h1{
+    margin-bottom: 20px;
+}
+.password_white{
+    color: white;
+}
+
+.toggle_input_container{
+    display: flex;
+    flex-direction: column;
+}
+
+.toggle_h3_heading:nth-child(1){
+    margin-top:20px;
+}
+
+.toggle_select_input{
+    width: 100% !important;   
+}
+
